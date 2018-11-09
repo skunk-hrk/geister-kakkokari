@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GhostArrangement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameSceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GhostArrangement.cs" Line="17" Column="19" />
+      <File FileName="Assets/Scripts/TitleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerDataScript.cs" Line="1" Column="1" />
+      <File FileName="../study1/Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="../study1/Assets/Scripts/TitleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MatchingManager.cs" Line="1" Column="1" />
+      <File FileName="../../geister-master/Assets/Script/GhostsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BoardScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
